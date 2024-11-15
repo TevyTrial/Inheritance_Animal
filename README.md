@@ -211,22 +211,5 @@ public class DemoTest {
 }
 ```
 
-## How to Run
-1. **Clone the Repository**:
-    ```sh
-    git clone https://github.com/yourusername/inheritanceanimal.git
-    cd inheritanceanimal
-    ```
-
-2. **Compile the Java Files**:
-    ```sh
-    javac inheritanceanimal/Animal.java inheritanceanimal/Cat.java inheritanceanimal/Dog.java inheritanceanimal/DemoTest.java
-    ```
-
-3. **Run the Program**:
-    ```sh
-    java inheritanceanimal.DemoTest
-    ```
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
